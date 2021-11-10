@@ -9,7 +9,7 @@
 - 💻 Curently working at @octopize as Lead data scientist 'Liberate data while preserving privacy'
 
 <p>
-<a href="https://fr.linkedin.com/in/morgan-guillaudeux/"><img height="30" src="https://github.com/mguillaudeux/image/blob/main/img/linkedin.png?raw=true"></a>
+<a href="https://fr.linkedin.com/in/morgan-guillaudeux-331275173"><img height="30" src="https://github.com/mguillaudeux/image/blob/main/img/linkedin.png?raw=true"></a>
 </p>
 
 <!---
