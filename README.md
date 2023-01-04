@@ -1,6 +1,4 @@
 
-#![bandeau](https://github.com/mguillaudeux/image/blob/main/img/bandeau.png)
-
 ## 🧪 This laboratory belongs to `Morgan Guillaudeux` 🧪
 
 - 👋 Data Scientist since 2019, curious since 1994
