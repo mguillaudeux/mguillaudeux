@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://mguillaudeux.github.io"><b>📖 Ouvrir le carnet complet / Open the full notebook</b></a>
   &nbsp;·&nbsp;
-  <a href="https://fr.linkedin.com/in/morgan-guillaudeux-331275173">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/morgan-g-331275173">LinkedIn</a>
 </p>
 
 ### 🐙 Salut, moi c'est Morgan !
